@@ -1,0 +1,30 @@
+ try
+    & 
+    clear                                                                
+    la                                                                   
+    ls                                                                   
+    ls -l                                                                
+    rm .\testing.py                                                      
+   ls                                                                   
+   git init                                                             
+   ls                                                                   
+   & C:\Users\SnehalDamakale\AppData\Local\Python\pythoncore-3.14-64\...
+   clear                                                                
+   ls                                                                   
+   ls -a                                                                
+   git status                                                           
+   & C:\Users\SnehalDamakale\AppData\Local\Python\pythoncore-3.14-64\...
+   git status                                                           
+   git add .\testing.py                                                 
+   git status                                                           
+   git commit -m "Added testing file"                                   
+   git status                                                           
+   rm .\testing.py                                                      
+   git status                                                           
+   git restore testing.py                                               
+   git status                                                           
+   rm testing.py                                                        
+   git restore testing.py                                               
+   git status                                                           
+   clear  
+   ls                                                              
