@@ -27,4 +27,6 @@
    git restore testing.py                                               
    git status                                                           
    clear  
-   ls                                                              
+   ls   
+   history
+   ls                                                          
