@@ -1,9 +1,9 @@
-def hello():
-    """
-    This function prints a greeting message.
-    """
-print("Hello Dosto, kya haal chaal,kaise hai SUblog?")
+"""Demo module containing a simple greeting function."""
 
+
+def hello():
+    """Print a greeting message."""
+    print("Hello Dosto, kya haal chaal, kaise hai SUblog?")
 
 
 hello()
